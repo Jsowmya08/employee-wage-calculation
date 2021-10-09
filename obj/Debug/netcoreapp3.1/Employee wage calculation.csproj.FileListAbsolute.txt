@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\bin\Debug\netcoreapp3.1\Employee wage calculation.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Employee wage calculation\obj\Debug\netcoreapp3.1\Employee wage calculation.genruntimeconfig.cache
